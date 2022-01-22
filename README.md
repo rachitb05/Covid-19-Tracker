@@ -4,7 +4,7 @@
 https://covid-19-tracker-3ca97.web.app/
 
 ## Description
-Fetches live Covid 19 Data from disease.sh API v3.0 and displays Graphs,Maps and Tables using Chart.js & React leaflet.
+Fetches live Covid 19 Data from disease.sh API v3.0 and displays Graphs,Maps and Tables using Chart.js, Material-UI & React leaflet.
 
 ## Installation
 
